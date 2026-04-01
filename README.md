@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @TeaCodeQuest
-- 👀 I’m interested in ... videogames (Actually playing & how they're designed)
-- 🌱 I’m currently learning ... to become a software developer (Most experience with Python and a little c# / java).
-- 💞️ I’m looking to collaborate on ... all stuff interesting!
+- 👾 Alias: Raigh
+- 🌱 I'm currently learning ... C# and JS (Most experience with Python and PHP).
 - 📫 How to reach me ... via discord.
-- 😄 Pronouns: ... she/her.
-- ⚡ Fun fact: ... I prefer listening to video game soundtrack instead of actual bands.
+- 🕵️‍♂️ Crimes Against Gaming: Starting a new game, being like "yeah I'll definitely continue that" and then I never do
+- ⏳ Time Spent in Character Creation Screens: a LOT
+- 🎲 Preferred Weapon of Choice: Mouse camera movement over C-stick any day
+- 📜 DLC Wishlist for my Life: CRTL F for things in my possession
+- 💤 AFK Excuse Generator: German Internet
+- ⚔️  PvP or PvE Personality? "It's complicated."
+- 💬 Final Words: I had to try!
 
 <!---
 TeaCodeQuest/TeaCodeQuest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
