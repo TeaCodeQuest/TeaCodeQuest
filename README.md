@@ -7,7 +7,7 @@
 - 📜 DLC Wishlist for my Life: CRTL F for things in my possession
 - 💤 AFK Excuse Generator: German Internet
 - ⚔️  PvP or PvE Personality? "It's complicated."
-- 💬 Final Words: I had to try!
+- 💬 Final Words: I want AI to do my laundry and dishes so that I can do design and writing, not for AI to do my design and writing so that I can do laundry and dishes.
 
 <!---
 TeaCodeQuest/TeaCodeQuest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
