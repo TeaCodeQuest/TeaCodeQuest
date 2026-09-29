@@ -1,11 +1,11 @@
-- 👾 Alias: Raigh
-- 🌱 Next on my practise list are C# and JS.
+- 👾 Alias: TeaQuest
+- 🌱 Next on my practise list are Ruby and JS.
 - 📫 You should check my roguelite on itch.io! https://teaquest-sagas.itch.io/unwavering-wraith
 - 🕵️‍♂️ Crimes Against Gaming: Starting a new game, being like "yeah I'll definitely continue that" and then I never do
-- ⏳ Time Spent in Character Creation Screens: a LOT
-- 🎲 Preferred Weapon of Choice: Mouse camera movement over C-stick any day
+- ⏳ Time Spent in Character Creation Screens: "yes"
+- 🎲 Preferred Weapon of Choice: Mouse
 - 📜 DLC Wishlist for my Life: CRTL F for things in my possession
-- 💤 AFK Excuse Generator: German Internet
+- 💤 AFK Excuse Generator: German Internet or Coffee-Refill
 - ⚔️  PvP or PvE Personality? "It's complicated."
 
   
